@@ -1,0 +1,26 @@
+{
+  "name": "tree-walking-lab",
+  "version": "1.0.0",
+  "description": "A playground to experiment with different algorithms for navigating and recusing through object chains",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schwarrior/tree-walking-lab.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schwarrior/tree-walking-lab/issues"
+  },
+  "homepage": "https://github.com/schwarrior/tree-walking-lab#readme",
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "@typescript-eslint/eslint-plugin": "^4.26.1",
+    "@typescript-eslint/parser": "^4.26.1",
+    "eslint": "^7.28.0",
+    "typescript": "^4.3.2"
+  }
+}

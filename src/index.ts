@@ -1,4 +1,4 @@
-import { RobsTreeWalker } from "./robs-tree-walker"
+import { Main } from "./main"
 
-const walker = new RobsTreeWalker()
-walker.walk()
+const main = new Main()
+main.start()
